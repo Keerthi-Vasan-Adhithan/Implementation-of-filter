@@ -44,7 +44,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('filter.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('filter.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -116,7 +116,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('filter.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('filter.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -197,7 +197,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('filter.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('filter.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -268,7 +268,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('filter.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('filter.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -348,7 +348,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('filter.jpeg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('filter.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 amount = 0.02
